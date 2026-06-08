@@ -2,9 +2,9 @@
 
 # Hi there, I'm Yohane H. Maluwa 👋
 
-### DMI SJBU Computer Science Student | Software Engineer in Progress | Web Developer | Web Designer | Mobile Developer | Computer Enthusiast | Curious Being
+### DMI SJBU Computer Science Student | Software Engineer in Progress | Web Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Engineering+Enthusiast;Flutter+Developer;Python+Developer;Web+Developer;Future+Tech+Innovator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DMI+SJBU+Computer+Science+Student;Software+Engineering+Enthusiast;Flutter+Developer;Python+Developer;Web+Developer;Future+Tech+Innovator;Mobile+Developer;Curious+Being" />
 
 </div>
 
