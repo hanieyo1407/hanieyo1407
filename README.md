@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Hanieyo 👋
+# Hi there, I'm Yohane H. Maluwa 👋
 
 ### Computer Science Student | Software Engineer in Progress | Web Developer
 
